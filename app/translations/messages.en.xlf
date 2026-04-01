@@ -44,27 +44,31 @@
       </trans-unit>
       <trans-unit id="label.created_at">
         <source>label.created_at</source>
-        <target>label.created_at</target>
+        <target>Created at</target>
       </trans-unit>
       <trans-unit id="label.updated_at">
         <source>label.updated_at</source>
-        <target>label.updated_at</target>
+        <target>Updated at</target>
       </trans-unit>
       <trans-unit id="label.name">
         <source>label.name</source>
-        <target>label.name</target>
+        <target>Name</target>
       </trans-unit>
       <trans-unit id="action.back_to_list">
         <source>action.back_to_list</source>
-        <target>action.back_to_list</target>
+        <target>Go back to list</target>
       </trans-unit>
       <trans-unit id="name.task_list">
         <source>name.task_list</source>
-        <target>name.task_list</target>
+        <target>List of advertisements</target>
       </trans-unit>
       <trans-unit id="action.view">
         <source>action.view</source>
-        <target>action.view</target>
+        <target>View</target>
+      </trans-unit>
+      <trans-unit id="base.title">
+        <source>base.title</source>
+        <target>Advertisement Service</target>
       </trans-unit>
     </body>
   </file>
